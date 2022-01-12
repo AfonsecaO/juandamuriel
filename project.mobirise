@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "JuanDa",
+    "name": "Juan Muriel",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -26,8 +26,8 @@
         "isRoundedButtons": false,
         "isGhostButtonBorder": false,
         "underlinedLinks": false,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": []
     },
@@ -41,8 +41,8 @@
       }
     ],
     "favicon": false,
-    "mbrsiteDomain": "xbssgo7gh5",
-    "imageResize": false,
+    "mbrsiteDomain": "44yya0wa5c",
+    "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
