@@ -1035,15 +1035,26 @@ a {
   }
 }
 .cid-sUjx7WWSQL {
-  background-image: url("../../../assets/images/background11.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
-.cid-sUjz9RolNK {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
+.cid-sUjx7WWSQL .mbr-section-title {
+  color: #ffffff;
 }
-.cid-sUjz9RolNK .mbr-text {
+.cid-sUjx7WWSQL .mbr-text,
+.cid-sUjx7WWSQL .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-sUjJHLaqII {
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
+}
+.cid-sUjJHLaqII .mbr-section-title {
+  color: #ffffff;
   text-align: center;
+}
+.cid-sUjJHLaqII .mbr-text,
+.cid-sUjJHLaqII .mbr-section-btn {
+  text-align: center;
+  color: #ffffff;
 }
 .cid-sUjAbZlKdH {
   padding-top: 5rem;
